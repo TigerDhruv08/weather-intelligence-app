@@ -1,0 +1,10 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Interactive weather forecasts, environmental insights, dynamic temperature charts, and activity planning recommendations powered by Open-Meteo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
